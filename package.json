@@ -1,0 +1,19 @@
+{
+  "name": "taga-sdk",
+  "version": "1.0.0",
+  "description": "Taga SDK for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taga-labs/taga-sdk-js.git"
+  },
+  "author": "Taga Labs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/taga-labs/taga-sdk-js/issues"
+  },
+  "homepage": "https://github.com/taga-labs/taga-sdk-js#readme"
+}
